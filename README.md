@@ -6,8 +6,6 @@ Appels systemes UNIX
 4. Push a la branche: `git push origin my-new-feature`
 5. Soumetez une pull request :D
 
-## History
-
 ## Credits
 Code fait par moi meme :)
 
